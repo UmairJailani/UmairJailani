@@ -1,13 +1,14 @@
 # 💫 About Me:
-🔭 **Currently working on**: Building a Python-focused development environment and a digital knowledge base using Obsidian and Syncthing.
+🔭 **Current Focus**: Mastering Python and refining my Linux terminal workflow. I'm currently using Python to automate my personal knowledge base in Obsidian.
 
-👯 **Looking to collaborate on**: Python automation scripts and Linux system administration tools.
+🤝 **Seeking Senior Guidance**: I am actively looking for mentorship regarding career paths in Python development and Cybersecurity. I value feedback on my code quality and project structure.
 
-🤝 **Seeking Guidance**: I'm looking for mentorship from seniors on career paths, finding entry-level opportunities, and improving my code quality.
+🌱 **Learning Path**: 
+- **Python**: Automation and Scripting.
+- **Cybersecurity**: Working through the OverTheWire Bandit levels.
+- **Languages**: Japanese (Hiragana/Katakana).
 
-🌱 **Currently learning**: Python development, Prompt Engineering, and Japanese (Hiragana/Katakana).
-
-💬 **Ask me about**: Linux terminal workflows, the OverTheWire Bandit wargame, or setting up private data sync.
+💬 **Let's Connect**: If you have advice for a junior dev or want to talk about Linux, feel free to reach out via Email or LinkedIn!
 
 ## 🌐 Socials:
 <p align="left">
@@ -21,7 +22,6 @@
 <img src="https://img.shields.io/badge/Linux-9ECE6A?style=for-the-badge&logo=linux&logoColor=1a1b26" />
 <img src="https://img.shields.io/badge/Git-F7768E?style=for-the-badge&logo=git&logoColor=1a1b26" />
 <img src="https://img.shields.io/badge/Terminal-414868?style=for-the-badge&logo=windowsterminal&logoColor=a9b1d6" />
-<img src="https://img.shields.io/badge/JavaScript-E0AF68?style=for-the-badge&logo=javascript&logoColor=1a1b26" />
 </p>
 
 # 📊 GitHub Stats:
