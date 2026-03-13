@@ -12,8 +12,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=UmairJailani&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UmairJailani&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=UmairJailani&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=UmairJailani&icon=5&color=7)](https://visitcount.itsvg.in)
