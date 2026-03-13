@@ -30,6 +30,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UmairJailani&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=UmairJailani&color=7aa2f7&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=UmairJailani&label=PROFILE+VIEWS&color=7aa2f7&style=for-the-badge" />
 </p>
