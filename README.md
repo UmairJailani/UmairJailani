@@ -10,8 +10,10 @@
 💬 **Ask me about**: Linux terminal workflows, the OverTheWire Bandit wargame, or setting up private data sync.
 
 ## 🌐 Socials:
+<p align="left">
 <a href="https://linkedin.com/in/umairjailani"><img src="https://img.shields.io/badge/LinkedIn-7199EE?style=for-the-badge&logo=linkedin&logoColor=1a1b26" /></a>
 <a href="mailto:umairjailani47@gmail.com"><img src="https://img.shields.io/badge/Email-E06C75?style=for-the-badge&logo=gmail&logoColor=1a1b26" /></a>
+</p>
 
 # 💻 Tech Stack:
 <p align="left">
@@ -29,5 +31,5 @@
 
 ---
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=UmairJailani&icon=5&color=7" />
+<img src="https://komarev.com/ghpvc/?username=UmairJailani&color=7aa2f7&style=flat-square&label=PROFILE+VIEWS" />
 </p>
