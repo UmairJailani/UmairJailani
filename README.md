@@ -27,9 +27,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UmairJailani&theme=tokyonight&hide_border=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=UmairJailani&theme=tokyonight&no-frame=true&margin-w=4)
-
 ---
 <p align="center">
 <img src="https://visitcount.itsvg.in/api?id=UmairJailani&icon=5&color=7" />
