@@ -25,93 +25,91 @@
 💻  Self-taught Front-End: HTML · CSS · JS · React · Tailwind
 🤖  AI-augmented builder — Claude Code, prompt engineering, vibe coding
 📍  Islamabad, Pakistan  ·  Open to Remote Opportunities
+```
 
 I'm not a typical developer. I spent 7+ years managing an entire department section at a federal institution — drafting legal findings, coordinating formal hearings, handling thousands of active cases — alone.
 
-That's the discipline I bring to code. Full ownership. Zero shortcuts.
+That's the discipline I bring to code. **Full ownership. Zero shortcuts.**
 
 ---
-🛠️ Tech Stack
 
-Frontend
+## 🛠️ Tech Stack
 
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black
-https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white
-https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white
+**Frontend**
 
-Currently Learning
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+**Currently Learning**
 
-Tools & Workflow
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white
-https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+**Tools & Workflow**
 
-AI & Vibe Coding
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white
-https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white
+**AI & Vibe Coding**
 
----
-📊 GitHub Stats
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
-🚀 Featured Projects
 
-┌─────────────────────────────────────────────────────────┬─────────────────────────────┬────────┬──────────────────────────────────────────────────────────────────┐
-│                         Project                         │         Description         │ Stack  │                              Links                               │
-├─────────────────────────────────────────────────────────┼─────────────────────────────┼────────┼──────────────────────────────────────────────────────────────────┤
-│                                                         │ Personal portfolio — dark   │ HTML · │                                                                  │
-│ 🌐 Portfolio (https://umairjailani.github.io)           │ glassmorphism, animated,    │  CSS · │ Live (https://umairjailani.github.io)                            │
-│                                                         │ fully responsive            │  JS    │                                                                  │
-├─────────────────────────────────────────────────────────┼─────────────────────────────┼────────┼──────────────────────────────────────────────────────────────────┤
-│ 🧮 Calculator App                                       │ Fully functional calculator │ HTML · │ Live (https://umairjailani.github.io/Calculator_Project/) · Code │
-│ (https://github.com/UmairJailani/Calculator_Project)    │  with clean UI and          │  CSS · │  (https://github.com/UmairJailani/Calculator_Project)            │
-│                                                         │ arithmetic operations       │  JS    │                                                                  │
-├─────────────────────────────────────────────────────────┼─────────────────────────────┼────────┼──────────────────────────────────────────────────────────────────┤
-│ 🎮 Simon Game                                           │ Memory game with            │ HTML · │ Live (https://umairjailani.github.io/Simon-Game/) · Code         │
-│ (https://github.com/UmairJailani/Simon-Game)            │ progressive difficulty,     │  CSS · │ (https://github.com/UmairJailani/Simon-Game)                     │
-│                                                         │ sound, and animations       │  JS    │                                                                  │
-├─────────────────────────────────────────────────────────┼─────────────────────────────┼────────┼──────────────────────────────────────────────────────────────────┤
-│ 🥁 Drum Machine                                         │ Keyboard-triggered drum pad │ HTML · │ Live (https://umairjailani.github.io/Drum-on-keys/) · Code       │
-│ (https://github.com/UmairJailani/Drum-on-keys)          │  using Web Audio API        │  CSS · │ (https://github.com/UmairJailani/Drum-on-keys)                   │
-│                                                         │                             │  JS    │                                                                  │
-├─────────────────────────────────────────────────────────┼─────────────────────────────┼────────┼──────────────────────────────────────────────────────────────────┤
-│ ✅ To-Do List                                           │ Task manager with add,      │ HTML · │ Live (https://umairjailani.github.io/ToDoList-Project/) · Code   │
-│ (https://github.com/UmairJailani/ToDoList-Project)      │ complete, delete — no       │  CSS · │ (https://github.com/UmairJailani/ToDoList-Project)               │
-│                                                         │ frameworks                  │  JS    │                                                                  │
-├─────────────────────────────────────────────────────────┼─────────────────────────────┼────────┼──────────────────────────────────────────────────────────────────┤
-│ 🔐 Login Page UI                                        │ Responsive login form with  │ HTML · │ Live (https://umairjailani.github.io/Login_page/) · Code         │
-│ (https://github.com/UmairJailani/Login_page)            │ client-side validation      │  CSS · │ (https://github.com/UmairJailani/Login_page)                     │
-│                                                         │                             │  JS    │                                                                  │
-└─────────────────────────────────────────────────────────┴─────────────────────────────┴────────┴──────────────────────────────────────────────────────────────────┘
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=UmairJailani&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=94a3b8&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmairJailani&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=94a3b8"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=UmairJailani&theme=transparent&hide_border=true&background=0d1117&stroke=6366f1&ring=8b5cf6&fire=ec4899&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=6366f1&sideLabels=94a3b8&dates=64748b"/>
+</div>
 
 ---
-🏆 Certifications
 
-┌─────┬────────────────────────────────────────┬───────────────────┬────────────────┐
-│     │              Certificate               │      Issuer       │     Status     │
-├─────┼────────────────────────────────────────┼───────────────────┼────────────────┤
-│ 📋  │ Google Project Management Certificate  │ Google / Coursera │ ✅ Completed   │
-├─────┼────────────────────────────────────────┼───────────────────┼────────────────┤
-│ ⚛️  │ META Front-End Development Certificate │ Meta / Coursera   │ ✅ Completed   │
-├─────┼────────────────────────────────────────┼───────────────────┼────────────────┤
-│ 🐍  │ 100 Days of Code — Python Bootcamp     │ Udemy             │ 🔄 In Progress │
-└─────┴────────────────────────────────────────┴───────────────────┴────────────────┘
+## 🚀 Featured Projects
+
+| Project | Description | Stack | Links |
+|---------|-------------|-------|-------|
+| 🌐 **[Portfolio](https://umairjailani.github.io)** | Personal portfolio — dark glassmorphism, animated, fully responsive | HTML · CSS · JS | [Live](https://umairjailani.github.io) |
+| 🧮 **[Calculator App](https://github.com/UmairJailani/Calculator_Project)** | Fully functional calculator with clean UI and arithmetic operations | HTML · CSS · JS | [Live](https://umairjailani.github.io/Calculator_Project/) · [Code](https://github.com/UmairJailani/Calculator_Project) |
+| 🎮 **[Simon Game](https://github.com/UmairJailani/Simon-Game)** | Memory game with progressive difficulty, sound, and animations | HTML · CSS · JS | [Live](https://umairjailani.github.io/Simon-Game/) · [Code](https://github.com/UmairJailani/Simon-Game) |
+| 🥁 **[Drum Machine](https://github.com/UmairJailani/Drum-on-keys)** | Keyboard-triggered drum pad using Web Audio API | HTML · CSS · JS | [Live](https://umairjailani.github.io/Drum-on-keys/) · [Code](https://github.com/UmairJailani/Drum-on-keys) |
+| ✅ **[To-Do List](https://github.com/UmairJailani/ToDoList-Project)** | Task manager with add, complete, delete — no frameworks | HTML · CSS · JS | [Live](https://umairjailani.github.io/ToDoList-Project/) · [Code](https://github.com/UmairJailani/ToDoList-Project) |
+| 🔐 **[Login Page UI](https://github.com/UmairJailani/Login_page)** | Responsive login form with client-side validation | HTML · CSS · JS | [Live](https://umairjailani.github.io/Login_page/) · [Code](https://github.com/UmairJailani/Login_page) |
 
 ---
-📬 Let's Connect
 
-https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white (https://umairjailani.github.io)
-https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white (https://www.linkedin.com/in/umairjailani)
-umairjailani47@gmail.com
+## 🏆 Certifications
 
-Open to front-end roles, operations, and project management opportunities.
+| | Certificate | Issuer | Status |
+|--|-------------|--------|--------|
+| 📋 | **Google Project Management Certificate** | Google / Coursera | ✅ Completed |
+| ⚛️ | **META Front-End Development Certificate** | Meta / Coursera | ✅ Completed |
+| 🐍 | **100 Days of Code — Python Bootcamp** | Udemy | 🔄 In Progress |
 
-"I build with code the same way I worked in government — with full ownership and zero shortcuts."
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://umairjailani.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umairjailani)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umairjailani47@gmail.com)
+
+**Open to front-end roles, operations, and project management opportunities.**
+
+*"I build with code the same way I worked in government — with full ownership and zero shortcuts."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer" width="100%"/>
