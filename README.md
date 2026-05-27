@@ -2,10 +2,10 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1200&color=6366F1&center=true&vCenter=true&width=600&lines=Self-Taught+Front-End+Developer;7%2B+Years+Government+Operations;Google+PM+%26+META+Front-End+Certified;AI-Augmented+Builder;Always+Delivering.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1200&color=6366F1&center=true&vCenter=true&width=600&lines=Self-Taught+Front-End+Developer;7%2B+Years+Government+Operations;Google+PM+%26+META+Front-End+Certified;AI-Augmented+Builder;Always+Delivering.)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=UmairJailani&color=6366f1&style=flat-square&label=Profile+Views)](https://github.com/UmairJailani)
-![GitHub followers](https://img.shields.io/github/followers/UmairJailani?color=6366f1&style=flat-square&logo=github&label=Followers)](https://github.com/UmairJailani?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=UmairJailani&color=6366f1&style=flat-square&label=Profile+Views)](https://github.com/UmairJailani)
+[![GitHub followers](https://img.shields.io/github/followers/UmairJailani?color=6366f1&style=flat-square&logo=github&label=Followers)](https://github.com/UmairJailani?tab=followers)
 
 </div>
 
