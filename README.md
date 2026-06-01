@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Umair%20Jailani&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-End%20Developer%20%7C%20Ops%20%26%20Admin%20Professional&descAlignY=56&descAlign=50" width="100%"/>
+# Umair Jailani
 
 <div align="center">
 
@@ -62,7 +62,7 @@ That's the discipline I bring to code. **Full ownership. Zero shortcuts.**
 
 <div align="center">
 
-![Umair's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmairJailani&show_icons=true&theme=dark&hide_border=true)
+![Umair's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmairJailani&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UmairJailani&layout=compact&theme=dark&hide_border=true)
 
