@@ -62,9 +62,9 @@ That's the discipline I bring to code. **Full ownership. Zero shortcuts.**
 
 <div align="center">
 
-![Umair's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmairJailani&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Umair's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UmairJailani&theme=github_dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UmairJailani&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UmairJailani&theme=github_dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=UmairJailani&theme=dark&hide_border=true)
 
