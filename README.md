@@ -22,7 +22,7 @@
      META Front-End Development Certificate      ✅ Completed
      100 Days of Code — Python Bootcamp          🔄 In Progress
 
-💻  Self-taught Front-End: HTML · CSS · JS · React · Tailwind
+💻  Self-taught Front-End: HTML · CSS · JS · Python · Tailwind
 🤖  AI-augmented builder — Claude Code, prompt engineering, vibe coding
 📍  Islamabad, Pakistan  ·  Open to Remote Opportunities
 ```
@@ -40,13 +40,9 @@ That's the discipline I bring to code. **Full ownership. Zero shortcuts.**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Currently Learning**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Tools & Workflow**
 
@@ -65,12 +61,13 @@ That's the discipline I bring to code. **Full ownership. Zero shortcuts.**
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=UmairJailani&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=94a3b8&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmairJailani&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=94a3b8"/>
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=UmairJailani&theme=transparent&hide_border=true&background=0d1117&stroke=6366f1&ring=8b5cf6&fire=ec4899&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=6366f1&sideLabels=94a3b8&dates=64748b"/>
+![Umair's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmairJailani&show_icons=true&theme=dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UmairJailani&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=UmairJailani&theme=dark&hide_border=true)
+
 </div>
 
 ---
