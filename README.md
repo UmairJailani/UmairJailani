@@ -72,7 +72,29 @@ That's the discipline I bring to code. **Full ownership. Zero shortcuts.**
 
 ---
 
-## 🚀 Featured Projects
+## 🚩 Flagship Project
+
+### Yaad — one app for family life *and* work teams
+
+> Replaces WhatsApp groups, sticky notes, and spreadsheets with a single shared app that adapts to whichever mode you're in.
+
+**Home mode** — shared grocery/pharmacy/general lists, role-based permissions (Owner → Admin → Member → Teen), geofenced "you're near this shop" reminders, split-bill tracking.
+
+**Work mode** — priority-based task assignment, org chart with real reporting lines (Boss → Manager → Staff), GPS site-presence tracking, automatic payout calculation, weekly leaderboards, shareable team performance report cards.
+
+| | |
+|---|---|
+| **Stack** | React Native (Expo) · TypeScript · Firebase (Firestore + Auth) |
+| **Extras** | Biometric login, voice input, offline-first, geofencing |
+| **Status** | 🔧 In closed testing on Google Play — production launch imminent |
+
+Private repo — built solo end-to-end: data model, security rules, native builds, and the whole product design, for real users in Pakistan.
+
+---
+
+## 🧩 Also Building
+
+Smaller, focused projects — rebuilt end-to-end as portfolio pieces with Claude Code:
 
 | Project | Description | Stack | Links |
 |---------|-------------|-------|-------|
