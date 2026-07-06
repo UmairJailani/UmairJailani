@@ -77,11 +77,12 @@ That's the discipline I bring to code. **Full ownership. Zero shortcuts.**
 | Project | Description | Stack | Links |
 |---------|-------------|-------|-------|
 | 🌐 **[Portfolio](https://umairjailani.github.io)** | Personal portfolio — dark glassmorphism, animated, fully responsive | HTML · CSS · JS | [Live](https://umairjailani.github.io) |
-| 🧮 **[Calculator App](https://github.com/UmairJailani/Calculator_Project)** | Fully functional calculator with clean UI and arithmetic operations | HTML · CSS · JS | [Live](https://umairjailani.github.io/Calculator_Project/) · [Code](https://github.com/UmairJailani/Calculator_Project) |
-| 🎮 **[Simon Game](https://github.com/UmairJailani/Simon-Game)** | Memory game with progressive difficulty, sound, and animations | HTML · CSS · JS | [Live](https://umairjailani.github.io/Simon-Game/) · [Code](https://github.com/UmairJailani/Simon-Game) |
-| 🥁 **[Drum Machine](https://github.com/UmairJailani/Drum-on-keys)** | Keyboard-triggered drum pad using Web Audio API | HTML · CSS · JS | [Live](https://umairjailani.github.io/Drum-on-keys/) · [Code](https://github.com/UmairJailani/Drum-on-keys) |
-| ✅ **[To-Do List](https://github.com/UmairJailani/ToDoList-Project)** | Task manager with add, complete, delete — no frameworks | HTML · CSS · JS | [Live](https://umairjailani.github.io/ToDoList-Project/) · [Code](https://github.com/UmairJailani/ToDoList-Project) |
-| 🔐 **[Login Page UI](https://github.com/UmairJailani/Login_page)** | Responsive login form with client-side validation | HTML · CSS · JS | [Live](https://umairjailani.github.io/Login_page/) · [Code](https://github.com/UmairJailani/Login_page) |
+| 🎲 **[Dice Duel](https://github.com/UmairJailani/Dice-Game)** | 2-player dice game — custom names, target score, win screen with confetti | HTML · CSS · JS | [Live](https://umairjailani.github.io/Dice-Game/) · [Code](https://github.com/UmairJailani/Dice-Game) |
+| 🕐 **[Digital Clock](https://github.com/UmairJailani/Digital-Clock)** | 5 animated wallpaper scenes, glassmorphism clock, 12h/24h toggle | HTML · CSS · JS | [Live](https://umairjailani.github.io/Digital-Clock/) · [Code](https://github.com/UmairJailani/Digital-Clock) |
+| 🧮 **[Calculator App](https://github.com/UmairJailani/Calculator_Project)** | Scientific + programmer mode (HEX/BIN/OCT/DEC), history, embeddable | HTML · CSS · JS | [Live](https://umairjailani.github.io/Calculator_Project/) · [Code](https://github.com/UmairJailani/Calculator_Project) |
+| 🥁 **[TD-POV Groove Pad](https://github.com/UmairJailani/Drum-on-keys)** | 8-pad drum kit with a built-in Simon-says memory game, all sound synthesized live | HTML · CSS · JS | [Live](https://umairjailani.github.io/Drum-on-keys/) · [Code](https://github.com/UmairJailani/Drum-on-keys) |
+| 🎮 **[Simon](https://github.com/UmairJailani/Simon-Game)** | The real quartered-circle disc, keyboard support, best-score tracking | HTML · CSS · JS | [Live](https://umairjailani.github.io/Simon-Game/) · [Code](https://github.com/UmairJailani/Simon-Game) |
+| 🔐 **[Auth UI](https://github.com/UmairJailani/auth-ui)** | Minimal sign-in/sign-up pair — dot-matrix type, dark/light toggle, real validation | HTML · CSS · JS | [Live](https://umairjailani.github.io/auth-ui/) · [Code](https://github.com/UmairJailani/auth-ui) |
 
 ---
 
