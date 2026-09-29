@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1200&color=6366F1&center=true&vCenter=true&width=600&lines=Self-Taught+Front-End+Developer;7%2B+Years+Government+Operations;Google+PM+%26+META+Front-End+Certified;AI-Augmented+Builder;Always+Delivering.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1200&color=6366F1&center=true&vCenter=true&width=600&lines=Operations+Professional+Entering+IT;7+Years+Government+Operations;Google+PM+%26+META+Front-End+Certified;AI-Augmented+Builder;Learning+Through+Projects.)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=UmairJailani&color=6366f1&style=flat-square&label=Profile+Views)](https://github.com/UmairJailani)
 [![GitHub followers](https://img.shields.io/github/followers/UmairJailani?color=6366f1&style=flat-square&logo=github&label=Followers)](https://github.com/UmairJailani?tab=followers)
@@ -14,7 +14,7 @@
 ## 👋 Who I Am
 
 ```text
-💼  7+ years running a full government section — solo
+💼  Seven years in government administration; left February 2026
      Federal Ombudsman of Pakistan (Wafaqi Mohtasib Secretariat)
      Legal drafting · Formal hearings · Case management · HR operations
 
@@ -22,18 +22,18 @@
      META Front-End Development Certificate      ✅ Completed
      100 Days of Code — Python Bootcamp          🔄 In Progress
 
-💻  Self-taught Front-End: HTML · CSS · JS · Python · Tailwind
-🤖  AI-augmented builder — Claude Code, prompt engineering, vibe coding
+💻  Learning HTML/CSS/JS · Python in active training · Git basics
+🤖  Building with AI assistance — Claude Code, Codex and ChatGPT
 📍  Islamabad, Pakistan  ·  Open to Remote Opportunities
 ```
 
-I'm not a typical developer. I spent 7+ years managing an entire department section at a federal institution — drafting legal findings, coordinating formal hearings, handling thousands of active cases — alone.
-
-That's the discipline I bring to code. **Full ownership. Zero shortcuts.**
+I'm moving from government administration into IT and software development. I build projects with AI assistance while developing my own fundamentals; project ownership is not a claim of expert-level knowledge of every tool involved.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies used in my projects
+
+These are project tools, not a proficiency rating. Python is in active training and Git knowledge is basic.
 
 **Frontend**
 
@@ -86,9 +86,9 @@ That's the discipline I bring to code. **Full ownership. Zero shortcuts.**
 |---|---|
 | **Stack** | React Native (Expo) · TypeScript · Firebase (Firestore + Auth) |
 | **Extras** | Biometric login, voice input, offline-first, geofencing |
-| **Status** | 🔧 In closed testing on Google Play — production launch imminent |
+| **Status** | 🔧 In progress; Google Play testing stage |
 
-Private repo — built solo end-to-end: data model, security rules, native builds, and the whole product design, for real users in Pakistan.
+Private repo — solo project built with AI assistance across: data model, security rules, native builds, and the whole product design, for real users in Pakistan.
 
 ---
 
@@ -126,7 +126,7 @@ Smaller, focused projects — rebuilt end-to-end as portfolio pieces with Claude
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umairjailani)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umairjailani47@gmail.com)
 
-**Open to front-end roles, operations, and project management opportunities.**
+**Open to admin/operations, IT coordination, data management and suitable entry-level technology opportunities.**
 
 *"I build with code the same way I worked in government — with full ownership and zero shortcuts."*
 
