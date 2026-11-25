@@ -2,6 +2,8 @@
 
 **Operations professional who builds real tools with AI.** Islamabad, Pakistan · open to on-site and remote roles.
 
+[Portfolio](https://umairjailani.github.io) · [Yaad](https://github.com/UmairJailani/yaad-showcase) · [Second Brain](https://github.com/UmairJailani/second-brain-showcase) · [Résumé](https://umairjailani.github.io/Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/umairjailani)
+
 I spent 7+ years running case management, legal drafting, hearings and HR operations at the Federal Ombudsman of Pakistan (Wafaqi Mohtasib Secretariat). Now I build web and mobile apps using AI coding tools such as Claude Code, Codex and ChatGPT. I'm strong at understanding the workflow, deciding what to build, testing it properly and shipping it. My own coding fundamentals (JavaScript, Python) are still growing.
 
 **Looking for:** operations and admin, IT coordination, data management, and entry-level tech roles where AI tools are part of the job.
@@ -17,6 +19,27 @@ I spent 7+ years running case management, legal drafting, hearings and HR operat
 - **Under the hood:** offline sync, role-based Firestore security rules, CI builds with GitHub Actions, Sentry crash reporting
 
 👉 **[See the Yaad showcase](https://github.com/UmairJailani/yaad-showcase)** (the source code is private)
+
+## 🧠 Featured: Second Brain
+
+**How I run my work with AI agents.** A private knowledge base that Claude Code and Codex both read and write, so no AI session starts from zero: one shared rulebook, a "current state" page, a monthly decision diary and a backup that checks GitHub really has the work.
+
+- **Public and private at once:** an hourly job publishes opt-in notes through a privacy filter that fails closed
+- **Built from real failures:** a backup that was reported but never happened, stale facts that ended up on a CV
+
+👉 **[See the Second Brain showcase](https://github.com/UmairJailani/second-brain-showcase)**
+
+## 🕒 Recently
+
+<!-- recent starts -->
+- 🧠 [Auto Backup System](https://github.com/UmairJailani/second-brain-showcase/blob/main/notes/auto-backup-system.md) · 2026-11-20
+- 🧠 [Working with Codex: hands-off agreement](https://github.com/UmairJailani/second-brain-showcase/blob/main/notes/autonomy-contract.md) · 2026-11-02
+- 🧠 [How It Works](https://github.com/UmairJailani/second-brain-showcase/blob/main/notes/how-it-works.md) · 2026-11-02
+- 🔧 [second-brain-showcase](https://github.com/UmairJailani/second-brain-showcase): How I run my work with AI agents: a private AI-maintained second brain (Claude Code + Codex), shown through an automatic privacy filter. · updated 2026-11-25
+- 🔧 [UmairJailani.github.io](https://github.com/UmairJailani/UmairJailani.github.io): Personal portfolio: operations professional who builds web and mobile tools with AI · updated 2026-11-25
+- 🔧 [yaad-showcase](https://github.com/UmairJailani/yaad-showcase): Yaad: shared lists and team management app for home and work (Android, React Native + Firebase) · updated 2026-11-25
+- 🔧 [Python-Learning-Projects](https://github.com/UmairJailani/Python-Learning-Projects): My Python Projects while learning from 100 Days of Code. · updated 2026-11-25
+<!-- recent ends -->
 
 ---
 
