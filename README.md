@@ -36,9 +36,9 @@ I spent 7+ years running case management, legal drafting, hearings and HR operat
 
 ## 🛠️ What I work with
 
-**Apps:** React Native · Expo · TypeScript · Firebase · HTML · CSS · JavaScript
-**Learning:** Python (100 Days of Code)
-**Tools:** Git and GitHub · GitHub Actions · VS Code · Claude Code · Codex · ChatGPT
+- **Apps:** React Native · Expo · TypeScript · Firebase · HTML · CSS · JavaScript
+- **Learning:** Python (100 Days of Code)
+- **Tools:** Git and GitHub · GitHub Actions · VS Code · Claude Code · Codex · ChatGPT
 
 ## 🎓 Certificates
 
