@@ -44,12 +44,12 @@ I spent 7+ years running case management, legal drafting, hearings and HR operat
 
 <!-- recent starts -->
 - 🧠 [Public showcase pipeline](https://github.com/UmairJailani/second-brain-showcase/blob/main/notes/second-brain-showcase.md) · 2026-11-26
+- 🧠 [What other AI second brains have (and what I added)](https://github.com/UmairJailani/second-brain-showcase/blob/main/notes/second-brain-features-research.md) · 2026-11-26
 - 🧠 [Auto Backup System](https://github.com/UmairJailani/second-brain-showcase/blob/main/notes/auto-backup-system.md) · 2026-11-20
-- 🧠 [Working with Codex: hands-off agreement](https://github.com/UmairJailani/second-brain-showcase/blob/main/notes/autonomy-contract.md) · 2026-11-02
-- 🔧 [second-brain-showcase](https://github.com/UmairJailani/second-brain-showcase): How I run my work with AI agents: a private AI-maintained second brain (Claude Code + Codex), shown through an automatic privacy filter. · updated 2026-11-25
-- 🔧 [UmairJailani.github.io](https://github.com/UmairJailani/UmairJailani.github.io): Personal portfolio: operations professional who builds web and mobile tools with AI · updated 2026-11-25
-- 🔧 [yaad-showcase](https://github.com/UmairJailani/yaad-showcase): Yaad: shared lists and team management app for home and work (Android, React Native + Firebase) · updated 2026-11-25
-- 🔧 [Python-Learning-Projects](https://github.com/UmairJailani/Python-Learning-Projects): My Python Projects while learning from 100 Days of Code. · updated 2026-11-25
+- 🔧 [second-brain-showcase](https://github.com/UmairJailani/second-brain-showcase): How I run my work with AI agents: a private AI-maintained second brain (Claude Code + Codex), shown through an automatic privacy filter. · updated 2026-11-26
+- 🔧 [UmairJailani.github.io](https://github.com/UmairJailani/UmairJailani.github.io): Personal portfolio: operations professional who builds web and mobile tools with AI · updated 2026-11-26
+- 🔧 [case-desk](https://github.com/UmairJailani/case-desk): Case register, hearing diary, letter generator and monthly report for complaint-handling offices · updated 2026-11-26
+- 🔧 [quizrush](https://github.com/UmairJailani/quizrush): Browser-based exam practice: FIA Assistant quizzes and an ICT Islamabad Police LDC drill · updated 2026-11-26
 <!-- recent ends -->
 
 ---
