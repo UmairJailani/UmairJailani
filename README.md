@@ -32,9 +32,9 @@ I spent 7+ years running case management, legal drafting, hearings and HR operat
 ## 🕒 Recently
 
 <!-- recent starts -->
+- 🧠 [Public showcase pipeline](https://github.com/UmairJailani/second-brain-showcase/blob/main/notes/second-brain-showcase.md) · 2026-11-26
 - 🧠 [Auto Backup System](https://github.com/UmairJailani/second-brain-showcase/blob/main/notes/auto-backup-system.md) · 2026-11-20
 - 🧠 [Working with Codex: hands-off agreement](https://github.com/UmairJailani/second-brain-showcase/blob/main/notes/autonomy-contract.md) · 2026-11-02
-- 🧠 [How It Works](https://github.com/UmairJailani/second-brain-showcase/blob/main/notes/how-it-works.md) · 2026-11-02
 - 🔧 [second-brain-showcase](https://github.com/UmairJailani/second-brain-showcase): How I run my work with AI agents: a private AI-maintained second brain (Claude Code + Codex), shown through an automatic privacy filter. · updated 2026-11-25
 - 🔧 [UmairJailani.github.io](https://github.com/UmairJailani/UmairJailani.github.io): Personal portfolio: operations professional who builds web and mobile tools with AI · updated 2026-11-25
 - 🔧 [yaad-showcase](https://github.com/UmairJailani/yaad-showcase): Yaad: shared lists and team management app for home and work (Android, React Native + Firebase) · updated 2026-11-25
