@@ -2,7 +2,7 @@
 
 **Operations professional who builds real tools with AI.** Islamabad, Pakistan · open to on-site and remote roles.
 
-[Portfolio](https://umairjailani.github.io) · [Yaad](https://github.com/UmairJailani/yaad-showcase) · [Second Brain](https://github.com/UmairJailani/second-brain-showcase) · [Résumé](https://umairjailani.github.io/Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/umairjailani)
+[Portfolio](https://umairjailani.github.io) · [Yaad](https://github.com/UmairJailani/yaad-showcase) · [Case Desk](https://umairjailani.github.io/case-desk/) · [Second Brain](https://github.com/UmairJailani/second-brain-showcase) · [Résumé](https://umairjailani.github.io/Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/umairjailani)
 
 I spent 7+ years running case management, legal drafting, hearings and HR operations at the Federal Ombudsman of Pakistan (Wafaqi Mohtasib Secretariat). Now I build web and mobile apps using AI coding tools such as Claude Code, Codex and ChatGPT. I'm strong at understanding the workflow, deciding what to build, testing it properly and shipping it. My own coding fundamentals (JavaScript, Python) are still growing.
 
@@ -19,6 +19,17 @@ I spent 7+ years running case management, legal drafting, hearings and HR operat
 - **Under the hood:** offline sync, role-based Firestore security rules, CI builds with GitHub Actions, Sentry crash reporting
 
 👉 **[See the Yaad showcase](https://github.com/UmairJailani/yaad-showcase)** (the source code is private)
+
+## 🗂️ Featured: Case Desk
+
+**My old job, turned into a tool.** A case register, hearing diary, letter generator and monthly report for offices that handle public complaints, designed from 7 years of doing that work by hand.
+
+- **Hearings that can't slip:** a cause list by date, with past hearings that have no recorded outcome flagged in red
+- **Letters in one click:** hearing notices, reminders and closure letters filled in from the case, printed on A4
+- **The monthly report counts itself:** pending, received, disposed of, by officer and agency, with Excel export
+- **Private by design:** everything stays in the browser; no server, no account
+
+👉 **[Try the live demo](https://umairjailani.github.io/case-desk/)** · [Code](https://github.com/UmairJailani/case-desk)
 
 ## 🧠 Featured: Second Brain
 
@@ -59,7 +70,7 @@ I spent 7+ years running case management, legal drafting, hearings and HR operat
 
 ## 🛠️ What I work with
 
-- **Apps:** React Native · Expo · TypeScript · Firebase · HTML · CSS · JavaScript
+- **Apps:** React · React Native · Expo · TypeScript · Firebase · IndexedDB · HTML · CSS · JavaScript
 - **Learning:** Python (100 Days of Code)
 - **Tools:** Git and GitHub · GitHub Actions · VS Code · Claude Code · Codex · ChatGPT
 
